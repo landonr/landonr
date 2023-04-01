@@ -5,12 +5,9 @@
 <hr>
 
 <div align="center">
-<h2>
 <a href="https://github.com/landonr/landonr/issues/1#issuecomment-new">
 <img width=250 src="https://user-images.githubusercontent.com/2607659/229271115-fb199174-3ff9-4d43-8ef7-f9ddfb508e13.gif"/>
-sign my guestbook
 </a>
-</h2>
 
 
 <!-- Guestbook -->
@@ -19,7 +16,7 @@ sign my guestbook
 | <a href="https://github.com/landonr"><img width="24" src="https://avatars.githubusercontent.com/u/2607659?s=24&u=4d0fb889793b32d174e176883c48ed6266755f91&v=4" alt="landonr" /> landonr</a> |4/1/2023, 7:57:20 AM|🎇|
 | <a href="https://github.com/landonr"><img width="24" src="https://avatars.githubusercontent.com/u/2607659?s=24&u=4d0fb889793b32d174e176883c48ed6266755f91&v=4" alt="landonr" /> landonr</a> |4/1/2023, 7:54:19 AM|welcome friends 👫|
 <!-- /Guestbook -->
-
+## [Sign my guestbook](https://github.com/landonr/landonr/issues/1#issuecomment-new)
 </div>
 <hr>
 
