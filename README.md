@@ -11,8 +11,15 @@
 sign my guestbook
 </a>
 </h2>
-</div>
 
+
+<!-- Guestbook -->
+| Name | Date | Message |
+|---|---|---|
+
+<!-- /Guestbook -->
+
+</div>
 <hr>
 
 <picture>
