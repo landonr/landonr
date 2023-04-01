@@ -26,11 +26,13 @@
   <img alt="Github stats">
 </picture>
 
+<a href="https://github.com/landonr/homeThing">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin?username=landonr&repo=homeThing&count_private=true&show_icons=true&theme=dark">
   <img alt="Github stats">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin?username=landonr&repo=homeThing&count_private=true&show_icons=true&theme=light">
 </picture>
+</a>
 
 ![Visitor Count](https://profile-counter.glitch.me/landonr/count.svg)
 
