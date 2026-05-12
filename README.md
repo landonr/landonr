@@ -4,24 +4,6 @@
 </div>
 <hr>
 
-<div align="center">
-<a href="https://github.com/landonr/landonr/issues/1#issuecomment-new">
-<img width=250 src="https://user-images.githubusercontent.com/2607659/229271115-fb199174-3ff9-4d43-8ef7-f9ddfb508e13.gif"/>
-</a>
-
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/marcusrbrown"><img width="24" src="https://avatars.githubusercontent.com/u/831617?s=24&u=79c56afa2ca0158f8388a1d0ec3e3b8810c73d1c&v=4" alt="marcusrbrown" /> marcusrbrown</a> |6/23/2023, 11:21:11 PM|I used ChatGPT to analyze my GH profile, including profiles that follow mine. It has this to say about your profile:<br /><br...|
-| <a href="https://github.com/Afterwalker99"><img width="24" src="https://avatars.githubusercontent.com/u/48080899?s=24&u=f55a87b1929cadd3a8a9696473196fb441d543f9&v=4" alt="Afterwalker99" /> Afterwalker99</a> |4/5/2023, 6:49:22 PM|Suppp!|
-| <a href="https://github.com/sbur83"><img width="24" src="https://avatars.githubusercontent.com/u/73172588?s=24&v=4" alt="sbur83" /> sbur83</a> |4/1/2023, 12:28:07 PM|I waz ere 23|
-| <a href="https://github.com/landonr"><img width="24" src="https://avatars.githubusercontent.com/u/2607659?s=24&u=4d0fb889793b32d174e176883c48ed6266755f91&v=4" alt="landonr" /> landonr</a> |4/1/2023, 7:57:20 AM|🎇|
-| <a href="https://github.com/landonr"><img width="24" src="https://avatars.githubusercontent.com/u/2607659?s=24&u=4d0fb889793b32d174e176883c48ed6266755f91&v=4" alt="landonr" /> landonr</a> |4/1/2023, 7:54:19 AM|welcome friends 👫|
-<!-- /Guestbook -->
-## [Sign my guestbook](https://github.com/landonr/landonr/issues/1#issuecomment-new)
-</div>
-<hr>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=landonr&count_private=true&show_icons=true&theme=dark">
